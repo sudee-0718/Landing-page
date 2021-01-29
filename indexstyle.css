@@ -1,0 +1,76 @@
+/* styling nav bar and footer */
+.navbar{	
+	background-color: #ad6ab8;
+	padding: 10px;
+	margin-top: 0px;
+}
+ul{
+	list-style: none;
+}
+li{
+	display: inline;
+	margin: 100px;
+}
+li a{
+	color: black;
+	text-decoration: none;
+	font-family: Montserrat;
+}
+li a:hover {
+	color: yellow;
+	text-decoration: none;
+	font-family: Montserrat;
+}
+/* footer background */
+.footer{
+	background-color: #ad6ab8;
+	padding: 10px;
+	margin-top: 0px;
+}
+
+/* styling h3 */
+h3{
+	font-family: Montserrat;
+	text-align: center;
+	color: black;
+	background-color: #ad6ab8;
+	padding: 20px;
+	margin-left: 150px; 
+	margin-right: 150px; 
+
+}
+/* styling h4 */
+h4{
+	text-align: center;
+	color: blue;
+	text-decoration: none;
+	background-color: orange;
+	padding: 20px;
+	margin-left: 300px; 
+	margin-right: 300px;
+	border-radius: 60px;
+	border-color: black;
+	border-width: 5px;
+	border-style: solid; 
+
+}
+/* styling para */
+.info{
+	text-align: center;
+	margin-bottom: 40px;
+	padding: 20px;
+	background-color: #ad6ab8;
+	margin-left: 450px; 
+	margin-right: 450px;
+	border-radius: 30px;
+
+}
+body{
+	margin: 0px;
+	padding: 0px;
+}
+/* spacing bw items */
+.upspace{
+	margin-top: 10px;
+}
+
